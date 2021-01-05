@@ -71,7 +71,7 @@ const Testimonials = ({ contentModuleId }) => {
                             ))
                         }
                     </div>
-                    <button className="glider-prev material-icons">keyboard_arrow_left</button>
+                    <button className="glider-prev material-icons">'keyboard_arrow_left</button>
                     <button className="glider-next material-icons">keyboard_arrow_right</button> 
                     <div className="glider__dots"></div>
                 </div>
